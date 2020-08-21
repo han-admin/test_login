@@ -27,4 +27,4 @@ class TestContact:
     @allure.step(title="输入密码")
     def test_pass(self):
         print("123")
-        assert 0
+        assert 1

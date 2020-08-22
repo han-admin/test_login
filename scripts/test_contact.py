@@ -21,7 +21,7 @@ class TestContact:
     @allure.step(title="输入账号")
     def test_name(self):
         print("123")
-        assert 1
+        assert 0
 
     @allure.severity('blocker')
     @allure.step(title="输入密码")
